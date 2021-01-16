@@ -1,6 +1,6 @@
-# task_manager
+# Task Manager
 
-task Management application
+Task Management application using SQLite
 
 ## Getting Started
 
